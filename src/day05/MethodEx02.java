@@ -4,7 +4,9 @@ public class MethodEx02 {
 	public static void main(String[] args) {
 
 		/*
-		 * 매개변수 1. 매개변수는 메서드를 호출할 떄 값을 전달하는 매개체 입니다. 2. 메서드의 소괄호 안에 몇개를 입력 받을지 결정합니다.
+		 * 매개변수 
+		 *   1. 매개변수는 메서드를 호출할 떄 값을 전달하는 매개체 입니다.
+		 *  2. 메서드의 소괄호 안에 몇개를 입력 받을지 결정합니다.
 		 * 
 		 */
 
@@ -70,7 +72,7 @@ public class MethodEx02 {
 			
 		}
 		
-		return "";
+		return str;
 		
 	}
 	

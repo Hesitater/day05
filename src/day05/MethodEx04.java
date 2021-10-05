@@ -12,7 +12,7 @@ public class MethodEx04 {
 		method01(arr);
 		
 		
-		String[ ] arr02= method02();
+		String[] arr02= method02();
 		System.out.println(Arrays.toString(arr02));
 		
 		//호출
@@ -29,7 +29,8 @@ public class MethodEx04 {
 		System.out.println(Arrays.toString(a));
 	}
 	
-	// 배열을 반환유형으로 돌ㄹ주는 메서드
+	
+	// 배열을 반환유형으로 돌려주는 메서드
 	static String[] method02() { //문자열 돌려준다
 		
 		String[] arr = {"월", "화", "수"};
